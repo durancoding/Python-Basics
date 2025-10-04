@@ -1,0 +1,37 @@
+#comparisons
+
+print(2 == 2)  # Equal to
+print(2 != 3)  # Not equal to
+
+print(3 > 2)   # Greater than
+print(2 < 3)   # Less than
+
+a = 10
+b = 18
+
+print(a >= 10)  # Greater than or equal to
+print(a <= b) # Less than or equal to
+
+point = 0
+
+score = True  # Example score, can be True or False
+
+if score:
+    point += 1  # Increment point by 1 if score is True
+else:
+    point -= 1  # Decrement point by 1 if score is False
+
+if point > 0:
+    print("You won!")
+elif point < 0:
+    print("You lost!")
+
+input_1 = int(input("Enter first number: "))
+input_2 = int(input("Enter second number: "))
+
+if input_1 > input_2:
+    print("First number is greater than second number.")
+elif input_1 < input_2:
+    print("First number is less than second number.")
+else:
+    print("Both numbers are equal.")
