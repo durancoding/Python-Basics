@@ -25,4 +25,3 @@ Here, I practice fundamental concepts step by step and document my progress.
 
 ## How to Use
 You can clone this repo and try the exercises on your own
-You can analyze how you can start learning python
