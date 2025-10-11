@@ -1,11 +1,10 @@
-# Python Basics 🐍
+# Python Basics 
 
 This repository is part of my learning journey as a university student exploring **Python programming**.  
-Here, I practice fundamental concepts step by step and document my progress. 🚀  
-
+Here, I practice fundamental concepts step by step and document my progress. 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 - Variables & Data Types  
 - Input / Output  
 - Conditional Statements (if-else)  
@@ -16,7 +15,7 @@ Here, I practice fundamental concepts step by step and document my progress. �
 
 ---
 
-## 🎯 Goals
+## Goals
 - Build a solid foundation in Python  
 - Improve problem-solving skills with code  
 - Share my progress openly and keep track of what I’ve learned  
@@ -24,5 +23,6 @@ Here, I practice fundamental concepts step by step and document my progress. �
 
 ---
 
-## 🔍 How to Use
-You can clone this repo and try the exercises on your own:
+## How to Use
+You can clone this repo and try the exercises on your own
+You can analyze how you can start learning python
